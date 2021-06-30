@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"div_msgs"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"con",
+				"conseguirAutor"
+			],
+			[
+				"an",
+				"anchuraToSlider"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-align-last\tproperty"
+			],
+			[
+				"co",
+				"confirm"
+			],
+			[
+				"compone",
+				"component"
+			],
+			[
+				"impor",
+				"import"
+			],
+			[
+				"_ro",
+				"_router"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"Proj",
+				"Project"
+			],
+			[
+				"PrO",
+				"ProjectService"
+			],
+			[
+				"save",
+				"save_project"
+			],
+			[
+				"bo",
+				"border-right\tproperty"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"Proje",
+				"ProjectService"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"fie",
+				"filesToUpload"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"fomr",
+				"formData"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"Htt",
+				"HttpHeaders"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"n",
+				"ngModel"
+			],
+			[
+				"H",
+				"HttpClient"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"t",
+				"transparent\tbackground"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text-al",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"Rou",
+				"RouterModule"
+			],
+			[
+				"fil",
+				"filePath"
+			],
+			[
+				"file",
+				"fileExt"
+			],
+			[
+				"pro",
+				"projectUpdated"
+			],
+			[
+				"fi",
+				"fileSplit"
+			],
+			[
+				"mult",
+				"multipartMiddleware"
+			],
+			[
+				"upl",
+				"uploadImage"
+			],
+			[
+				"project",
+				"projectId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"projec",
+				"projectId"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"conexio",
+				"conexion"
+			],
+			[
+				"tr",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"nu",
+				"numero2"
+			],
+			[
+				"numer",
+				"numero1"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"profesor",
+				"profesor_string"
+			],
+			[
+				"profe",
+				"profesor_string"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"a",
+				"arreglo"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"se",
+				"segundos"
+			],
+			[
+				"I",
+				"if"
+			],
+			[
+				"dia",
+				"diaSemana"
+			],
+			[
+				"pDi",
+				"pDiaSemana"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"class",
+				"class\tAttr"
+			],
+			[
+				"sr",
+				"sr-only"
+			],
+			[
+				"nav",
+				"nav\tTag"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"slid",
+				"slides"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"textali",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"textin",
+				"text-align\tproperty"
+			],
+			[
+				"tetx",
+				"text-decoration\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"f",
+				"fff"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"wi",
+				"width\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 812,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 924,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 754,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Roger/Master Javascript (victor robles)/Proyecto Chat",
+		"/D/Roger/Master Javascript (victor robles)/Proyecto Chat/server"
+	],
+	"file_history":
+	[
+		"/D/Roger/Master Javascript (victor robles)/Proyecto Chat/package.json",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/resaltado.directive.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/contact/contact.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/contact/contact.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/slider/slider.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/slider/slider.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/angular.json",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/app.module.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/create/create.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/create/create.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/D/Roger/Master Javascript (victor robles)/Portafolio Web/proyecto-angular/src/app/components/create/create.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/assets/css/styles.css",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/services/project.service.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/app.routing.ts",
+		"/D/Roger/Proyecto Portafolio/backend/routes/project.js",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/D/Roger/Proyecto Portafolio/backend/controllers/project.js",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/services/upload.service.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/index.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/models/project.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/services/global.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/about/about.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/about/about.component.ts",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/app.component.html",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/components/about/about.component.css",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/node_modules/@angular/cli/lib/config/schema.json",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/src/app/app.component.css",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/package.json",
+		"/D/Roger/Proyecto Portafolio/proyecto-angular/package-lock.json",
+		"/D/Roger/Proyecto Portafolio/backend/package.json",
+		"/D/Roger/Proyecto Portafolio/app.js",
+		"/D/Roger/Proyecto Portafolio/routes/project.js",
+		"/D/Roger/Proyecto Portafolio/controllers/project.js",
+		"/D/Roger/Proyecto Portafolio/package.json",
+		"/D/Roger/Proyecto Portafolio/models/project.js",
+		"/D/Roger/Proyecto Portafolio/index.js",
+		"/D/Roger/Python con Redait Media/insertarfilas.py",
+		"/D/Roger/Python con Redait Media/actualizardatos.py",
+		"/D/Roger/Python con Redait Media/crearbasededatos.py",
+		"/D/Roger/Python con Redait Media/eliminardatos.py",
+		"/D/Roger/Python con Redait Media/consultardatos.py",
+		"/D/Roger/Python con Redait Media/holamundo.py",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios TypeScript/main.ts",
+		"/D/Roger/Master Javascript (victor robles)/proyecto-js/js/main.js",
+		"/D/Roger/Master Javascript (victor robles)/Proyecto1 (JS)/css/styles.css",
+		"/D/Roger/Master Javascript (victor robles)/Proyecto1 (JS)/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Proyecto1 (JS)/js/main.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios con Fetch/ejercicio.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios con Fetch/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicio localStorage/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicio localStorage/ejercicio.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 3/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 3/ejercicio1.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 2/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 2/ejercicio1.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 2/ejercicio1",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/index.html",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio8.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio7.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio6.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio5.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio4.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio3.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio2.js",
+		"/D/Roger/Master Javascript (victor robles)/Ejercicios Bloque 1/ejercicio1.js",
+		"/D/Roger/JavaScript/Reloj/reloj.js",
+		"/D/Roger/JavaScript/Reloj/estilos.css",
+		"/D/Roger/JavaScript/Reloj/index.html",
+		"/D/Roger/JavaScript/listaTareas/index.html",
+		"/D/Roger/JavaScript/listaTareas/css/estilos.css",
+		"/D/Roger/JavaScript/listaTareas/js/main.js",
+		"/D/Roger/Bootstrap/intro/css/estilos.css",
+		"/D/Roger/Bootstrap/intro/index.html",
+		"/D/Roger/Bootstrap/grid/estilos.css",
+		"/D/Roger/Bootstrap/grid/index.html",
+		"/C/Users/Lenovo/Desktop/Sitio Web/index.html",
+		"/D/Roger/Bootstrap/intro/js/jquery.js",
+		"/C/Users/Lenovo/Desktop/Sitio Web/css/fuentes.css",
+		"/C/Users/Lenovo/Desktop/Sitio Web/css/estilos.css",
+		"/D/Roger/Prácticas en Html y Css (sublime text)/estilos.css",
+		"/D/Roger/Prácticas en Html y Css (sublime text)/index.html",
+		"/C/Users/Lenovo/Desktop/estilo.css",
+		"/C/Users/Lenovo/Desktop/hola mundo"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "proyecto-chat.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
